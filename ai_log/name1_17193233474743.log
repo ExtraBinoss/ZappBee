@@ -1,0 +1,3163 @@
+15:49:07 : Connection: WELCOME
+
+15:49:07 : Client number: 1, X: 10, Y: 10
+15:49:07 : Sending Look
+15:49:07 : Response: [ player player player player player player, food sibur, food,]
+
+15:49:07 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player'], ['food', 'sibur'], ['food'], ['']]
+15:49:07 : Sending Right
+15:49:07 : Response: ok
+
+15:49:07 : Sending Forward
+15:49:07 : Response: ok
+
+15:49:07 : Sending Take food
+15:49:07 : Response: ko
+
+15:49:07 : Sending Inventory
+15:49:07 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:07 : Sending Look
+15:49:07 : Response: [ player player player player player player,,,]
+
+15:49:07 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player'], [''], [''], ['']]
+15:49:07 : Sending Left
+15:49:07 : Response: ok
+
+15:49:07 : Sending Forward
+15:49:07 : Response: ok
+
+15:49:07 : Sending Forward
+15:49:07 : Response: ok
+
+15:49:07 : Sending Inventory
+15:49:07 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:07 : Sending Look
+15:49:07 : Response: [ player player player player player player food food,, deraumere sibur, food deraumere]
+
+15:49:07 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player', 'food', 'food'], [''], ['deraumere', 'sibur'], ['food', 'deraumere']]
+15:49:07 : Sending Take food
+15:49:07 : Response: ok
+
+15:49:07 : Sending Take food
+15:49:07 : Response: ko
+
+15:49:07 : Sending Inventory
+15:49:07 : Response: [food 11, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:07 : Sending Look
+15:49:07 : Response: [ player player player player player,, player deraumere sibur, food deraumere]
+
+15:49:07 : Formated Data: [['player', 'player', 'player', 'player', 'player'], [''], ['player', 'deraumere', 'sibur'], ['food', 'deraumere']]
+15:49:07 : Sending Forward
+15:49:07 : Response: ok
+
+15:49:07 : Sending Right
+15:49:08 : Response: ok
+
+15:49:08 : Sending Forward
+15:49:08 : Response: ok
+
+15:49:08 : Sending Take food
+15:49:08 : Response: ko
+
+15:49:08 : Sending Inventory
+15:49:08 : Response: [food 11, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:08 : Sending Look
+15:49:08 : Response: [ player player player player player player deraumere, food thystame,, linemate linemate]
+
+15:49:08 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player', 'deraumere'], ['food', 'thystame'], [''], ['linemate', 'linemate']]
+15:49:08 : Sending Right
+15:49:08 : Response: ok
+
+15:49:08 : Sending Forward
+15:49:08 : Response: ok
+
+15:49:08 : Sending Take food
+15:49:08 : Response: ko
+
+15:49:08 : Sending Inventory
+15:49:08 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:08 : Sending Look
+15:49:08 : Response: [ player player player player player player, food sibur phiras,,]
+
+15:49:08 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player'], ['food', 'sibur', 'phiras'], [''], ['']]
+15:49:08 : Sending Right
+15:49:08 : Response: ok
+
+15:49:08 : Sending Forward
+15:49:08 : Response: ok
+
+15:49:08 : Sending Take food
+15:49:08 : Response: ko
+
+15:49:08 : Sending Inventory
+15:49:08 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:08 : Sending Look
+15:49:08 : Response: [ player player player player player player, food, food food food sibur thystame,]
+
+15:49:08 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player'], ['food'], ['food', 'food', 'food', 'sibur', 'thystame'], ['']]
+15:49:08 : Sending Forward
+15:49:08 : Response: ok
+
+15:49:08 : Sending Take food
+15:49:08 : Response: ok
+
+15:49:08 : Sending Take food
+15:49:09 : Response: ko
+
+15:49:09 : Sending Take food
+15:49:09 : Response: ko
+
+15:49:09 : Sending Inventory
+15:49:09 : Response: [food 11, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:09 : Sending Look
+15:49:09 : Response: [ player player player player player player sibur thystame, food sibur,, food food]
+
+15:49:09 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player', 'sibur', 'thystame'], ['food', 'sibur'], [''], ['food', 'food']]
+15:49:09 : Sending Forward
+15:49:09 : Response: ok
+
+15:49:09 : Sending Right
+15:49:09 : Response: ok
+
+15:49:09 : Sending Forward
+15:49:09 : Response: ok
+
+15:49:09 : Sending Take food
+15:49:09 : Response: ko
+
+15:49:09 : Sending Take food
+15:49:09 : Response: ko
+
+15:49:09 : Sending Inventory
+15:49:09 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:09 : Sending Look
+15:49:09 : Response: [ player player player player player player, mendiane, food food sibur,]
+
+15:49:09 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'player'], ['mendiane'], ['food', 'food', 'sibur'], ['']]
+15:49:09 : Sending Forward
+15:49:09 : Response: ok
+
+15:49:09 : Sending Take food
+15:49:09 : Response: ko
+
+15:49:09 : Sending Take food
+15:49:09 : Response: ko
+
+15:49:09 : Sending Inventory
+15:49:09 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:09 : Sending Look
+15:49:09 : Response: [ player player player player player sibur,, food linemate, deraumere]
+
+15:49:09 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'sibur'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:09 : Sending Forward
+15:49:10 : Response: ok
+
+15:49:10 : Sending Take food
+15:49:10 : Response: ko
+
+15:49:10 : Sending Take linemate
+15:49:10 : Response: ko
+
+15:49:10 : Sending Inventory
+15:49:10 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:10 : Sending Look
+15:49:10 : Response: [ player player player player player, food,, linemate sibur mendiane]
+
+15:49:10 : Formated Data: [['player', 'player', 'player', 'player', 'player'], ['food'], [''], ['linemate', 'sibur', 'mendiane']]
+15:49:10 : Sending Right
+15:49:10 : Response: ok
+
+15:49:10 : Sending Forward
+15:49:10 : Response: ok
+
+15:49:10 : Sending Take food
+15:49:10 : Response: ko
+
+15:49:10 : Sending Inventory
+15:49:10 : Response: [food 10, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:10 : Sending Look
+15:49:10 : Response: [ player player player player player deraumere,, mendiane, linemate linemate deraumere]
+
+15:49:10 : Formated Data: [['player', 'player', 'player', 'player', 'player', 'deraumere'], [''], ['mendiane'], ['linemate', 'linemate', 'deraumere']]
+15:49:10 : Sending Forward
+15:49:10 : Response: ok
+
+15:49:10 : Sending Right
+15:49:10 : Response: ok
+
+15:49:10 : Sending Forward
+15:49:10 : Response: ok
+
+15:49:10 : Sending Take linemate
+15:49:10 : Response: ok
+
+15:49:10 : Sending Inventory
+15:49:10 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:10 : Sending Look
+15:49:10 : Response: [ player player player player deraumere, deraumere, deraumere sibur,]
+
+15:49:10 : Formated Data: [['player', 'player', 'player', 'player', 'deraumere'], ['deraumere'], ['deraumere', 'sibur'], ['']]
+15:49:10 : Sending Left
+15:49:10 : Response: ok
+
+15:49:10 : Sending Forward
+15:49:11 : Response: ok
+
+15:49:11 : Sending Forward
+15:49:11 : Response: ok
+
+15:49:11 : Sending Inventory
+15:49:11 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:11 : Sending Look
+15:49:11 : Response: [ player player player player food thystame, food linemate deraumere, food linemate mendiane,]
+
+15:49:11 : Formated Data: [['player', 'player', 'player', 'player', 'food', 'thystame'], ['food', 'linemate', 'deraumere'], ['food', 'linemate', 'mendiane'], ['']]
+15:49:11 : Sending Take food
+15:49:11 : Response: ko
+
+15:49:11 : Sending Inventory
+15:49:11 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:11 : Sending Look
+15:49:11 : Response: [ player player player thystame, food linemate deraumere, food linemate mendiane,]
+
+15:49:11 : Formated Data: [['player', 'player', 'player', 'thystame'], ['food', 'linemate', 'deraumere'], ['food', 'linemate', 'mendiane'], ['']]
+15:49:11 : Sending Right
+15:49:11 : Response: ok
+
+15:49:11 : Sending Forward
+15:49:11 : Response: ok
+
+15:49:11 : Sending Take food
+15:49:11 : Response: ko
+
+15:49:11 : Sending Inventory
+15:49:11 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:11 : Sending Look
+15:49:11 : Response: [ player player player player, food food linemate, linemate linemate linemate,]
+
+15:49:11 : Formated Data: [['player', 'player', 'player', 'player'], ['food', 'food', 'linemate'], ['linemate', 'linemate', 'linemate'], ['']]
+15:49:11 : Sending Right
+15:49:11 : Response: ok
+
+15:49:11 : Sending Forward
+15:49:11 : Response: ok
+
+15:49:11 : Sending Take food
+15:49:11 : Response: ko
+
+15:49:11 : Sending Take food
+15:49:11 : Response: ko
+
+15:49:11 : Sending Inventory
+15:49:11 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:11 : Sending Look
+15:49:12 : Response: [ player player player player deraumere, food, deraumere sibur, player deraumere]
+
+15:49:12 : Formated Data: [['player', 'player', 'player', 'player', 'deraumere'], ['food'], ['deraumere', 'sibur'], ['player', 'deraumere']]
+15:49:12 : Sending Right
+15:49:12 : Response: ok
+
+15:49:12 : Sending Forward
+15:49:12 : Response: ok
+
+15:49:12 : Sending Take food
+15:49:12 : Response: ok
+
+15:49:12 : Sending Inventory
+15:49:12 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:12 : Sending Look
+15:49:12 : Response: [ player player player player player, mendiane, linemate,]
+
+15:49:12 : Formated Data: [['player', 'player', 'player', 'player', 'player'], ['mendiane'], ['linemate'], ['']]
+15:49:12 : Sending Left
+15:49:12 : Response: ok
+
+15:49:12 : Sending Forward
+15:49:12 : Response: ok
+
+15:49:12 : Sending Forward
+15:49:12 : Response: ok
+
+15:49:12 : Sending Inventory
+15:49:12 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:12 : Sending Look
+15:49:12 : Response: [ player player food, food, sibur,]
+
+15:49:12 : Formated Data: [['player', 'player', 'food'], ['food'], ['sibur'], ['']]
+15:49:12 : Sending Take food
+15:49:12 : Response: ko
+
+15:49:12 : Sending Inventory
+15:49:12 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:12 : Sending Look
+15:49:12 : Response: [ player player, food, sibur,]
+
+15:49:12 : Formated Data: [['player', 'player'], ['food'], ['sibur'], ['']]
+15:49:12 : Sending Right
+15:49:12 : Response: ok
+
+15:49:12 : Sending Forward
+15:49:12 : Response: ok
+
+15:49:12 : Sending Take food
+15:49:12 : Response: ko
+
+15:49:12 : Sending Inventory
+15:49:12 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:12 : Sending Look
+15:49:13 : Response: [ player player deraumere,, player player linemate sibur mendiane, player]
+
+15:49:13 : Formated Data: [['player', 'player', 'deraumere'], [''], ['player', 'player', 'linemate', 'sibur', 'mendiane'], ['player']]
+15:49:13 : Sending Left
+15:49:13 : Response: ok
+
+15:49:13 : Sending Forward
+15:49:13 : Response: ok
+
+15:49:13 : Sending Forward
+15:49:13 : Response: ok
+
+15:49:13 : Sending Inventory
+15:49:13 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:13 : Sending Look
+15:49:13 : Response: [ player player, linemate linemate deraumere deraumere, linemate sibur, food phiras]
+
+15:49:13 : Formated Data: [['player', 'player'], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['linemate', 'sibur'], ['food', 'phiras']]
+15:49:13 : Sending Forward
+15:49:13 : Response: ok
+
+15:49:13 : Sending Right
+15:49:13 : Response: ok
+
+15:49:13 : Sending Forward
+15:49:13 : Response: ok
+
+15:49:13 : Sending Take food
+15:49:13 : Response: ko
+
+15:49:13 : Sending Inventory
+15:49:13 : Response: [food 8, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:13 : Sending Look
+15:49:13 : Response: [ player player phiras, food food, food food linemate deraumere deraumere thystame, food linemate linemate]
+
+15:49:13 : Formated Data: [['player', 'player', 'phiras'], ['food', 'food'], ['food', 'food', 'linemate', 'deraumere', 'deraumere', 'thystame'], ['food', 'linemate', 'linemate']]
+15:49:13 : Sending Right
+15:49:13 : Response: ok
+
+15:49:13 : Sending Forward
+15:49:13 : Response: ok
+
+15:49:13 : Sending Take food
+15:49:13 : Response: ko
+
+15:49:13 : Sending Take food
+15:49:13 : Response: ko
+
+15:49:13 : Sending Inventory
+15:49:13 : Response: [food 8, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:13 : Sending Look
+15:49:14 : Response: [ player player, phiras,,]
+
+15:49:14 : Formated Data: [['player', 'player'], ['phiras'], [''], ['']]
+15:49:14 : Sending Left
+15:49:14 : Response: ok
+
+15:49:14 : Sending Forward
+15:49:14 : Response: ok
+
+15:49:14 : Sending Forward
+15:49:14 : Response: ok
+
+15:49:14 : Sending Inventory
+15:49:14 : Response: [food 8, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:14 : Sending Look
+15:49:14 : Response: [ player player, food food linemate,,]
+
+15:49:14 : Formated Data: [['player', 'player'], ['food', 'food', 'linemate'], [''], ['']]
+15:49:14 : Sending Right
+15:49:14 : Response: ok
+
+15:49:14 : Sending Forward
+15:49:14 : Response: ok
+
+15:49:14 : Sending Take food
+15:49:14 : Response: ok
+
+15:49:14 : Sending Take food
+15:49:14 : Response: ko
+
+15:49:14 : Sending Inventory
+15:49:14 : Response: [food 8, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:14 : Sending Look
+15:49:14 : Response: [ player player linemate, food, food, food phiras]
+
+15:49:14 : Formated Data: [['player', 'player', 'linemate'], ['food'], ['food'], ['food', 'phiras']]
+15:49:14 : Sending Right
+15:49:14 : Response: ok
+
+15:49:14 : Sending Forward
+15:49:14 : Response: ok
+
+15:49:14 : Sending Take food
+15:49:14 : Response: ko
+
+15:49:14 : Sending Inventory
+15:49:14 : Response: [food 8, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:14 : Sending Look
+15:49:15 : Response: [ player phiras, food, player linemate,]
+
+15:49:15 : Formated Data: [['player', 'phiras'], ['food'], ['player', 'linemate'], ['']]
+15:49:15 : Sending Right
+15:49:15 : Response: ok
+
+15:49:15 : Sending Forward
+15:49:15 : Response: ok
+
+15:49:15 : Sending Take food
+15:49:15 : Response: ok
+
+15:49:15 : Sending Inventory
+15:49:15 : Response: [food 9, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:15 : Sending Look
+15:49:15 : Response: [ player linemate linemate, food deraumere, food food linemate deraumere deraumere thystame, food deraumere]
+
+15:49:15 : Formated Data: [['player', 'linemate', 'linemate'], ['food', 'deraumere'], ['food', 'food', 'linemate', 'deraumere', 'deraumere', 'thystame'], ['food', 'deraumere']]
+15:49:15 : Sending Forward
+15:49:15 : Response: ok
+
+15:49:15 : Sending Take food
+15:49:15 : Response: ok
+
+15:49:15 : Sending Take food
+15:49:15 : Response: ok
+
+15:49:15 : Sending Inventory
+15:49:15 : Response: [food 11, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:15 : Sending Look
+15:49:15 : Response: [ player linemate deraumere deraumere thystame, deraumere mendiane, food food, deraumere mendiane]
+
+15:49:15 : Formated Data: [['player', 'linemate', 'deraumere', 'deraumere', 'thystame'], ['deraumere', 'mendiane'], ['food', 'food'], ['deraumere', 'mendiane']]
+15:49:15 : Sending Forward
+15:49:15 : Response: ok
+
+15:49:15 : Sending Take food
+15:49:15 : Response: ok
+
+15:49:15 : Sending Take food
+15:49:15 : Response: ok
+
+15:49:15 : Sending Inventory
+15:49:15 : Response: [food 13, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:15 : Sending Look
+15:49:15 : Response: [ player, food, food, food]
+
+15:49:15 : Formated Data: [['player'], ['food'], ['food'], ['food']]
+15:49:15 : Sending Right
+15:49:15 : Response: ok
+
+15:49:15 : Sending Forward
+15:49:16 : Response: ok
+
+15:49:16 : Sending Take food
+15:49:16 : Response: ok
+
+15:49:16 : Sending Inventory
+15:49:16 : Response: [food 13, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:16 : Sending Look
+15:49:16 : Response: [ player deraumere mendiane, food, player deraumere phiras, linemate]
+
+15:49:16 : Formated Data: [['player', 'deraumere', 'mendiane'], ['food'], ['player', 'deraumere', 'phiras'], ['linemate']]
+15:49:16 : Sending Right
+15:49:16 : Response: ok
+
+15:49:16 : Sending Forward
+15:49:16 : Response: ok
+
+15:49:16 : Sending Take food
+15:49:16 : Response: ko
+
+15:49:16 : Sending Inventory
+15:49:16 : Response: [food 13, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:16 : Sending Look
+15:49:16 : Response: [ player deraumere,,, player linemate linemate]
+
+15:49:16 : Formated Data: [['player', 'deraumere'], [''], [''], ['player', 'linemate', 'linemate']]
+15:49:16 : Sending Left
+15:49:16 : Response: ok
+
+15:49:16 : Sending Forward
+15:49:16 : Response: ok
+
+15:49:16 : Sending Forward
+15:49:16 : Response: ok
+
+15:49:16 : Sending Inventory
+15:49:16 : Response: [food 13, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:16 : Sending Look
+15:49:16 : Response: [ player deraumere, linemate linemate mendiane,, linemate]
+
+15:49:16 : Formated Data: [['player', 'deraumere'], ['linemate', 'linemate', 'mendiane'], [''], ['linemate']]
+15:49:16 : Sending Left
+15:49:16 : Response: ok
+
+15:49:16 : Sending Forward
+15:49:16 : Response: ok
+
+15:49:16 : Sending Forward
+15:49:16 : Response: ok
+
+15:49:16 : Sending Inventory
+15:49:16 : Response: [food 13, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:16 : Sending Look
+15:49:17 : Response: [ player, food food,, food mendiane]
+
+15:49:17 : Formated Data: [['player'], ['food', 'food'], [''], ['food', 'mendiane']]
+15:49:17 : Sending Right
+15:49:17 : Response: ok
+
+15:49:17 : Sending Forward
+15:49:17 : Response: ok
+
+15:49:17 : Sending Take food
+15:49:17 : Response: ko
+
+15:49:17 : Sending Take food
+15:49:17 : Response: ko
+
+15:49:17 : Sending Inventory
+15:49:17 : Response: [food 12, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:17 : Sending Look
+15:49:17 : Response: [ player sibur, food food linemate, linemate, player food]
+
+15:49:17 : Formated Data: [['player', 'sibur'], ['food', 'food', 'linemate'], ['linemate'], ['player', 'food']]
+15:49:17 : Sending Right
+15:49:17 : Response: ok
+
+15:49:17 : Sending Forward
+15:49:17 : Response: ok
+
+15:49:17 : Sending Take food
+15:49:17 : Response: ko
+
+15:49:17 : Sending Take food
+15:49:17 : Response: ko
+
+15:49:17 : Sending Inventory
+15:49:17 : Response: [food 12, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:17 : Sending Look
+15:49:17 : Response: [ player linemate linemate mendiane,,, player player deraumere]
+
+15:49:17 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], [''], [''], ['player', 'player', 'deraumere']]
+15:49:17 : Sending Left
+15:49:17 : Response: ok
+
+15:49:17 : Sending Forward
+15:49:17 : Response: ok
+
+15:49:17 : Sending Forward
+15:49:17 : Response: ok
+
+15:49:17 : Sending Inventory
+15:49:18 : Response: [food 12, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:18 : Sending Look
+15:49:18 : Response: [ player, food mendiane, linemate, linemate linemate deraumere deraumere]
+
+15:49:18 : Formated Data: [['player'], ['food', 'mendiane'], ['linemate'], ['linemate', 'linemate', 'deraumere', 'deraumere']]
+15:49:18 : Sending Right
+15:49:18 : Response: ok
+
+15:49:18 : Sending Forward
+15:49:18 : Response: ok
+
+15:49:18 : Sending Take food
+15:49:18 : Response: ko
+
+15:49:18 : Sending Inventory
+15:49:18 : Response: [food 12, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:18 : Sending Look
+15:49:18 : Response: [ player linemate, food mendiane, linemate,]
+
+15:49:18 : Formated Data: [['player', 'linemate'], ['food', 'mendiane'], ['linemate'], ['']]
+15:49:18 : Sending Right
+15:49:18 : Response: ok
+
+15:49:18 : Sending Forward
+15:49:18 : Response: ok
+
+15:49:18 : Sending Take food
+15:49:18 : Response: ko
+
+15:49:18 : Sending Inventory
+15:49:18 : Response: [food 11, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:18 : Sending Look
+15:49:18 : Response: [ player, linemate,, linemate linemate mendiane]
+
+15:49:18 : Formated Data: [['player'], ['linemate'], [''], ['linemate', 'linemate', 'mendiane']]
+15:49:18 : Sending Left
+15:49:18 : Response: ok
+
+15:49:18 : Sending Forward
+15:49:18 : Response: ok
+
+15:49:18 : Sending Forward
+15:49:18 : Response: ok
+
+15:49:18 : Sending Inventory
+15:49:18 : Response: [food 11, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:18 : Sending Look
+15:49:18 : Response: [ player,, sibur thystame, food food food food]
+
+15:49:18 : Formated Data: [['player'], [''], ['sibur', 'thystame'], ['food', 'food', 'food', 'food']]
+15:49:18 : Sending Forward
+15:49:19 : Response: ok
+
+15:49:19 : Sending Right
+15:49:19 : Response: ok
+
+15:49:19 : Sending Forward
+15:49:19 : Response: ok
+
+15:49:19 : Sending Take food
+15:49:19 : Response: ok
+
+15:49:19 : Sending Take food
+15:49:19 : Response: ok
+
+15:49:19 : Sending Take food
+15:49:19 : Response: ok
+
+15:49:19 : Sending Take food
+15:49:19 : Response: ok
+
+15:49:19 : Sending Inventory
+15:49:19 : Response: [food 15, linemate 1, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:19 : Sending Set linemate
+15:49:19 : Response: ok
+
+15:49:19 : Sending Incantation
+15:49:19 : Response: Elevation underway
+
+15:49:22 : Elevation result: Current level: 2
+
+15:49:22 : Level update: 2
+15:49:22 : Sending Look
+15:49:22 : Response: [ player, food food food food, food food food, mendiane, food, food linemate, food,,]
+
+15:49:22 : Formated Data: [['player'], ['food', 'food', 'food', 'food'], ['food', 'food', 'food'], ['mendiane'], ['food'], ['food', 'linemate'], ['food'], [''], ['']]
+15:49:22 : Sending Right
+15:49:22 : Response: ok
+
+15:49:22 : Sending Forward
+15:49:22 : Response: ok
+
+15:49:22 : Sending Take food
+15:49:22 : Response: ok
+
+15:49:22 : Sending Take food
+15:49:22 : Response: ko
+
+15:49:22 : Sending Take food
+15:49:22 : Response: ko
+
+15:49:22 : Sending Take food
+15:49:23 : Response: ko
+
+15:49:23 : Sending Inventory
+15:49:23 : Response: [food 13, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:23 : Sending Look
+15:49:23 : Response: [ player player sibur, linemate thystame, player food food linemate,, linemate, deraumere,,, food linemate]
+
+15:49:23 : Formated Data: [['player', 'player', 'sibur'], ['linemate', 'thystame'], ['player', 'food', 'food', 'linemate'], [''], ['linemate'], ['deraumere'], [''], [''], ['food', 'linemate']]
+15:49:23 : Sending Forward
+15:49:23 : Response: ok
+
+15:49:23 : Sending Take food
+15:49:23 : Response: ko
+
+15:49:23 : Sending Take food
+15:49:23 : Response: ko
+
+15:49:23 : Sending Inventory
+15:49:23 : Response: [food 13, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:23 : Sending Look
+15:49:23 : Response: [ player player player linemate, deraumere,,, deraumere phiras,, linemate linemate mendiane,,]
+
+15:49:23 : Formated Data: [['player', 'player', 'player', 'linemate'], ['deraumere'], [''], [''], ['deraumere', 'phiras'], [''], ['linemate', 'linemate', 'mendiane'], [''], ['']]
+15:49:23 : Sending Left
+15:49:23 : Response: ok
+
+15:49:23 : Sending Forward
+15:49:23 : Response: ok
+
+15:49:23 : Sending Forward
+15:49:23 : Response: ok
+
+15:49:23 : Sending Inventory
+15:49:23 : Response: [food 12, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:23 : Sending Look
+15:49:23 : Response: [ player player player, food linemate,, food deraumere, food food phiras, phiras, food linemate linemate, linemate deraumere deraumere thystame,]
+
+15:49:23 : Formated Data: [['player', 'player', 'player'], ['food', 'linemate'], [''], ['food', 'deraumere'], ['food', 'food', 'phiras'], ['phiras'], ['food', 'linemate', 'linemate'], ['linemate', 'deraumere', 'deraumere', 'thystame'], ['']]
+15:49:23 : Sending Forward
+15:49:23 : Response: ok
+
+15:49:23 : Sending Right
+15:49:23 : Response: ok
+
+15:49:23 : Sending Forward
+15:49:23 : Response: ok
+
+15:49:23 : Sending Forward
+15:49:23 : Response: ok
+
+15:49:23 : Sending Take food
+15:49:24 : Response: ko
+
+15:49:24 : Sending Take food
+15:49:24 : Response: ko
+
+15:49:24 : Sending Inventory
+15:49:24 : Response: [food 12, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:24 : Sending Look
+15:49:24 : Response: [ player deraumere mendiane, food food food, food, food,, food linemate,,,]
+
+15:49:24 : Formated Data: [['player', 'deraumere', 'mendiane'], ['food', 'food', 'food'], ['food'], ['food'], [''], ['food', 'linemate'], [''], [''], ['']]
+15:49:24 : Sending Right
+15:49:24 : Response: ok
+
+15:49:24 : Sending Forward
+15:49:24 : Response: ok
+
+15:49:24 : Sending Take food
+15:49:24 : Response: ko
+
+15:49:24 : Sending Take food
+15:49:24 : Response: ko
+
+15:49:24 : Sending Take food
+15:49:24 : Response: ko
+
+15:49:24 : Sending Inventory
+15:49:24 : Response: [food 12, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:24 : Sending Look
+15:49:24 : Response: [ player deraumere phiras, food, food, deraumere, food mendiane, sibur, linemate linemate mendiane,, linemate]
+
+15:49:24 : Formated Data: [['player', 'deraumere', 'phiras'], ['food'], ['food'], ['deraumere'], ['food', 'mendiane'], ['sibur'], ['linemate', 'linemate', 'mendiane'], [''], ['linemate']]
+15:49:24 : Sending Right
+15:49:24 : Response: ok
+
+15:49:24 : Sending Forward
+15:49:24 : Response: ok
+
+15:49:24 : Sending Take food
+15:49:24 : Response: ko
+
+15:49:24 : Sending Inventory
+15:49:24 : Response: [food 11, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:24 : Sending Look
+15:49:24 : Response: [ player linemate, linemate thystame,,, linemate sibur, mendiane,, player linemate, phiras]
+
+15:49:24 : Formated Data: [['player', 'linemate'], ['linemate', 'thystame'], [''], [''], ['linemate', 'sibur'], ['mendiane'], [''], ['player', 'linemate'], ['phiras']]
+15:49:24 : Sending Left
+15:49:24 : Response: ok
+
+15:49:24 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Inventory
+15:49:25 : Response: [food 11, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:25 : Sending Look
+15:49:25 : Response: [ player, food, food,, food mendiane thystame,, food linemate, linemate, player]
+
+15:49:25 : Formated Data: [['player'], ['food'], ['food'], [''], ['food', 'mendiane', 'thystame'], [''], ['food', 'linemate'], ['linemate'], ['player']]
+15:49:25 : Sending Right
+15:49:25 : Response: ok
+
+15:49:25 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Take food
+15:49:25 : Response: ok
+
+15:49:25 : Sending Inventory
+15:49:25 : Response: [food 12, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:25 : Sending Look
+15:49:25 : Response: [ player player player linemate,, linemate sibur, mendiane,, sibur thystame,,, food]
+
+15:49:25 : Formated Data: [['player', 'player', 'player', 'linemate'], [''], ['linemate', 'sibur'], ['mendiane'], [''], ['sibur', 'thystame'], [''], [''], ['food']]
+15:49:25 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Right
+15:49:25 : Response: ok
+
+15:49:25 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Forward
+15:49:25 : Response: ok
+
+15:49:25 : Sending Take food
+15:49:25 : Response: ok
+
+15:49:25 : Sending Inventory
+15:49:25 : Response: [food 13, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:25 : Sending Look
+15:49:25 : Response: [ player, player, food, linemate, deraumere, food linemate, food food food phiras, phiras, food food linemate linemate]
+
+15:49:25 : Formated Data: [['player'], ['player'], ['food'], ['linemate'], ['deraumere'], ['food', 'linemate'], ['food', 'food', 'food', 'phiras'], ['phiras'], ['food', 'food', 'linemate', 'linemate']]
+15:49:25 : Sending Forward
+15:49:26 : Response: ok
+
+15:49:26 : Sending Forward
+15:49:26 : Response: ok
+
+15:49:26 : Sending Take food
+15:49:26 : Response: ok
+
+15:49:26 : Sending Take food
+15:49:26 : Response: ok
+
+15:49:26 : Sending Take food
+15:49:26 : Response: ok
+
+15:49:26 : Sending Inventory
+15:49:26 : Response: [food 15, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:26 : Sending Look
+15:49:26 : Response: [ player phiras,, food, linemate, food, player linemate,,, food]
+
+15:49:26 : Formated Data: [['player', 'phiras'], [''], ['food'], ['linemate'], ['food'], ['player', 'linemate'], [''], [''], ['food']]
+15:49:26 : Sending Forward
+15:49:26 : Response: ok
+
+15:49:26 : Sending Take food
+15:49:26 : Response: ok
+
+15:49:26 : Sending Inventory
+15:49:26 : Response: [food 16, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:26 : Sending Look
+15:49:26 : Response: [ player linemate sibur mendiane, mendiane, deraumere,, food, deraumere,, food sibur, player player mendiane]
+
+15:49:26 : Formated Data: [['player', 'linemate', 'sibur', 'mendiane'], ['mendiane'], ['deraumere'], [''], ['food'], ['deraumere'], [''], ['food', 'sibur'], ['player', 'player', 'mendiane']]
+15:49:26 : Sending Forward
+15:49:26 : Response: ok
+
+15:49:26 : Sending Right
+15:49:26 : Response: ok
+
+15:49:26 : Sending Forward
+15:49:26 : Response: ok
+
+15:49:26 : Sending Forward
+15:49:26 : Response: ok
+
+15:49:26 : Sending Take food
+15:49:26 : Response: ok
+
+15:49:26 : Sending Inventory
+15:49:26 : Response: [food 17, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:26 : Sending Look
+15:49:27 : Response: [ player, linemate linemate deraumere deraumere, linemate sibur, food phiras,, food linemate, food,,]
+
+15:49:27 : Formated Data: [['player'], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['linemate', 'sibur'], ['food', 'phiras'], [''], ['food', 'linemate'], ['food'], [''], ['']]
+15:49:27 : Sending Forward
+15:49:27 : Response: ok
+
+15:49:27 : Sending Right
+15:49:27 : Response: ok
+
+15:49:27 : Sending Forward
+15:49:27 : Response: ok
+
+15:49:27 : Sending Take food
+15:49:27 : Response: ok
+
+15:49:27 : Sending Inventory
+15:49:27 : Response: [food 17, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:27 : Sending Look
+15:49:27 : Response: [ player food phiras,, linemate deraumere deraumere thystame, food food food linemate linemate,, deraumere mendiane, food deraumere,, linemate]
+
+15:49:27 : Formated Data: [['player', 'food', 'phiras'], [''], ['linemate', 'deraumere', 'deraumere', 'thystame'], ['food', 'food', 'food', 'linemate', 'linemate'], [''], ['deraumere', 'mendiane'], ['food', 'deraumere'], [''], ['linemate']]
+15:49:27 : Sending Forward
+15:49:27 : Response: ok
+
+15:49:27 : Sending Right
+15:49:27 : Response: ok
+
+15:49:27 : Sending Forward
+15:49:27 : Response: ok
+
+15:49:27 : Sending Take food
+15:49:27 : Response: ok
+
+15:49:27 : Sending Take food
+15:49:27 : Response: ok
+
+15:49:27 : Sending Take food
+15:49:27 : Response: ok
+
+15:49:27 : Sending Inventory
+15:49:27 : Response: [food 20, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:27 : Sending Look
+15:49:27 : Response: [ player linemate linemate, linemate, phiras, linemate,, food, food phiras, food,]
+
+15:49:27 : Formated Data: [['player', 'linemate', 'linemate'], ['linemate'], ['phiras'], ['linemate'], [''], ['food'], ['food', 'phiras'], ['food'], ['']]
+15:49:27 : Sending Forward
+15:49:27 : Response: ok
+
+15:49:27 : Sending Forward
+15:49:28 : Response: ok
+
+15:49:28 : Sending Left
+15:49:28 : Response: ok
+
+15:49:28 : Sending Forward
+15:49:28 : Response: ok
+
+15:49:28 : Sending Take food
+15:49:28 : Response: ok
+
+15:49:28 : Sending Inventory
+15:49:28 : Response: [food 21, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:28 : Sending Look
+15:49:28 : Response: [ player,,, linemate, linemate thystame, food food mendiane,,, food]
+
+15:49:28 : Formated Data: [['player'], [''], [''], ['linemate'], ['linemate', 'thystame'], ['food', 'food', 'mendiane'], [''], [''], ['food']]
+15:49:28 : Sending Forward
+15:49:28 : Response: ok
+
+15:49:28 : Sending Forward
+15:49:28 : Response: ok
+
+15:49:28 : Sending Left
+15:49:28 : Response: ok
+
+15:49:28 : Sending Forward
+15:49:28 : Response: ok
+
+15:49:28 : Sending Take food
+15:49:28 : Response: ok
+
+15:49:28 : Sending Take food
+15:49:28 : Response: ok
+
+15:49:28 : Sending Inventory
+15:49:28 : Response: [food 22, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:28 : Sending Look
+15:49:28 : Response: [ player food mendiane, food, linemate thystame, linemate, food deraumere, food linemate, deraumere,,]
+
+15:49:28 : Formated Data: [['player', 'food', 'mendiane'], ['food'], ['linemate', 'thystame'], ['linemate'], ['food', 'deraumere'], ['food', 'linemate'], ['deraumere'], [''], ['']]
+15:49:28 : Sending Take food
+15:49:28 : Response: ok
+
+15:49:28 : Sending Inventory
+15:49:28 : Response: [food 23, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:28 : Sending Look
+15:49:29 : Response: [ player mendiane, food, linemate thystame, linemate, food deraumere, food linemate, deraumere,,]
+
+15:49:29 : Formated Data: [['player', 'mendiane'], ['food'], ['linemate', 'thystame'], ['linemate'], ['food', 'deraumere'], ['food', 'linemate'], ['deraumere'], [''], ['']]
+15:49:29 : Sending Right
+15:49:29 : Response: ok
+
+15:49:29 : Sending Forward
+15:49:29 : Response: ok
+
+15:49:29 : Sending Take food
+15:49:29 : Response: ko
+
+15:49:29 : Sending Inventory
+15:49:29 : Response: [food 23, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:29 : Sending Look
+15:49:29 : Response: [ player linemate sibur,, food, sibur thystame, linemate, linemate,,, deraumere sibur]
+
+15:49:29 : Formated Data: [['player', 'linemate', 'sibur'], [''], ['food'], ['sibur', 'thystame'], ['linemate'], ['linemate'], [''], [''], ['deraumere', 'sibur']]
+15:49:29 : Sending Forward
+15:49:29 : Response: ok
+
+15:49:29 : Sending Take food
+15:49:29 : Response: ok
+
+15:49:29 : Sending Inventory
+15:49:29 : Response: [food 24, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:29 : Sending Look
+15:49:29 : Response: [ player, linemate,,, linemate linemate deraumere deraumere, mendiane, sibur,, deraumere]
+
+15:49:29 : Formated Data: [['player'], ['linemate'], [''], [''], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['mendiane'], ['sibur'], [''], ['deraumere']]
+15:49:29 : Sending Left
+15:49:29 : Response: ok
+
+15:49:29 : Sending Forward
+15:49:29 : Response: ok
+
+15:49:29 : Sending Forward
+15:49:29 : Response: ok
+
+15:49:29 : Sending Inventory
+15:49:29 : Response: [food 23, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:29 : Sending Look
+15:49:29 : Response: [ player food, linemate linemate mendiane, food,, food, food sibur, food linemate, food food food mendiane thystame, food mendiane]
+
+15:49:29 : Formated Data: [['player', 'food'], ['linemate', 'linemate', 'mendiane'], ['food'], [''], ['food'], ['food', 'sibur'], ['food', 'linemate'], ['food', 'food', 'food', 'mendiane', 'thystame'], ['food', 'mendiane']]
+15:49:29 : Sending Forward
+15:49:29 : Response: ok
+
+15:49:29 : Sending Forward
+15:49:29 : Response: ok
+
+15:49:29 : Sending Right
+15:49:30 : Response: ok
+
+15:49:30 : Sending Forward
+15:49:30 : Response: ok
+
+15:49:30 : Sending Take food
+15:49:30 : Response: ok
+
+15:49:30 : Sending Take food
+15:49:30 : Response: ok
+
+15:49:30 : Sending Take food
+15:49:30 : Response: ok
+
+15:49:30 : Sending Inventory
+15:49:30 : Response: [food 26, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:30 : Sending Look
+15:49:30 : Response: [ player mendiane thystame, linemate mendiane, food mendiane, food food linemate, food food, food food linemate deraumere, food food, food, linemate sibur]
+
+15:49:30 : Formated Data: [['player', 'mendiane', 'thystame'], ['linemate', 'mendiane'], ['food', 'mendiane'], ['food', 'food', 'linemate'], ['food', 'food'], ['food', 'food', 'linemate', 'deraumere'], ['food', 'food'], ['food'], ['linemate', 'sibur']]
+15:49:30 : Sending Forward
+15:49:30 : Response: ok
+
+15:49:30 : Sending Right
+15:49:30 : Response: ok
+
+15:49:30 : Sending Forward
+15:49:30 : Response: ok
+
+15:49:30 : Sending Take food
+15:49:30 : Response: ok
+
+15:49:30 : Sending Take food
+15:49:30 : Response: ok
+
+15:49:30 : Sending Inventory
+15:49:30 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:30 : Sending Look
+15:49:30 : Response: [ player linemate, linemate sibur, linemate linemate deraumere deraumere, linemate,,, food mendiane, linemate,]
+
+15:49:30 : Formated Data: [['player', 'linemate'], ['linemate', 'sibur'], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['linemate'], [''], [''], ['food', 'mendiane'], ['linemate'], ['']]
+15:49:30 : Sending Inventory
+15:49:30 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:30 : Sending Look
+15:49:30 : Response: [ player linemate, linemate sibur, linemate linemate deraumere deraumere, food linemate,,, food mendiane, linemate,]
+
+15:49:30 : Formated Data: [['player', 'linemate'], ['linemate', 'sibur'], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['food', 'linemate'], [''], [''], ['food', 'mendiane'], ['linemate'], ['']]
+15:49:30 : Sending Inventory
+15:49:30 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:30 : Sending Look
+15:49:30 : Response: [ player linemate, linemate sibur, linemate linemate deraumere deraumere, food linemate,,, food mendiane, linemate,]
+
+15:49:30 : Formated Data: [['player', 'linemate'], ['linemate', 'sibur'], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['food', 'linemate'], [''], [''], ['food', 'mendiane'], ['linemate'], ['']]
+15:49:30 : Sending Inventory
+15:49:30 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:30 : Sending Look
+15:49:31 : Response: [ player linemate, linemate sibur, linemate linemate deraumere deraumere, food linemate,,, food mendiane, linemate,]
+
+15:49:31 : Formated Data: [['player', 'linemate'], ['linemate', 'sibur'], ['linemate', 'linemate', 'deraumere', 'deraumere'], ['food', 'linemate'], [''], [''], ['food', 'mendiane'], ['linemate'], ['']]
+15:49:31 : Sending Forward
+15:49:31 : Response: ok
+
+15:49:31 : Sending Right
+15:49:31 : Response: ok
+
+15:49:31 : Sending Forward
+15:49:31 : Response: ok
+
+15:49:31 : Sending Take food
+15:49:31 : Response: ok
+
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate,, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], [''], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:31 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:31 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:31 : Sending Inventory
+15:49:31 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:31 : Sending Look
+15:49:32 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:32 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:32 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:32 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player linemate,, food, food food, linemate sibur, food linemate, linemate, linemate linemate mendiane, food sibur]
+
+15:49:32 : Formated Data: [['player', 'linemate'], [''], ['food'], ['food', 'food'], ['linemate', 'sibur'], ['food', 'linemate'], ['linemate'], ['linemate', 'linemate', 'mendiane'], ['food', 'sibur']]
+15:49:32 : Sending Forward
+15:49:32 : Response: ok
+
+15:49:32 : Sending Right
+15:49:32 : Response: ok
+
+15:49:32 : Sending Forward
+15:49:32 : Response: ok
+
+15:49:32 : Sending Take food
+15:49:32 : Response: ok
+
+15:49:32 : Sending Take food
+15:49:32 : Response: ok
+
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:32 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:32 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:32 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:32 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:32 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:32 : Sending Inventory
+15:49:32 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:32 : Sending Look
+15:49:33 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:33 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:33 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:33 : Sending Inventory
+15:49:33 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:33 : Sending Look
+15:49:34 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, food food food linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['food', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, player food food linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['player', 'food', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, player food linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['player', 'food', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, player linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['player', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, food linemate, mendiane thystame,, food, player linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['player', 'linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, player food linemate, mendiane thystame,, food, linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['player', 'food', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, player linemate, mendiane thystame,, food, linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['player', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, player linemate, mendiane thystame,, food, linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['player', 'linemate'], ['mendiane', 'thystame'], [''], ['food'], ['linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, linemate, mendiane thystame,, food food, linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['linemate'], ['mendiane', 'thystame'], [''], ['food', 'food'], ['linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Inventory
+15:49:34 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:34 : Sending Look
+15:49:34 : Response: [ player food, food sibur, linemate, mendiane thystame,, food food, linemate, food, food linemate mendiane]
+
+15:49:34 : Formated Data: [['player', 'food'], ['food', 'sibur'], ['linemate'], ['mendiane', 'thystame'], [''], ['food', 'food'], ['linemate'], ['food'], ['food', 'linemate', 'mendiane']]
+15:49:34 : Sending Forward
+15:49:34 : Response: ok
+
+15:49:34 : Sending Forward
+15:49:34 : Response: ok
+
+15:49:34 : Sending Left
+15:49:35 : Response: ok
+
+15:49:35 : Sending Forward
+15:49:35 : Response: ok
+
+15:49:35 : Sending Take food
+15:49:35 : Response: ok
+
+15:49:35 : Sending Take food
+15:49:35 : Response: ok
+
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:35 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:35 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:35 : Sending Inventory
+15:49:35 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:35 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate, player, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], ['player'], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate, player, food linemate,, food, food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], ['player'], ['food', 'linemate'], [''], ['food'], ['food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate,, food, player food, food,]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], [''], ['food'], ['player', 'food'], ['food'], ['']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate, food, food, player, food, food]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], ['player'], ['food'], ['food']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:36 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:36 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:36 : Sending Inventory
+15:49:36 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:36 : Sending Look
+15:49:37 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:37 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:37 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:37 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:37 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:37 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:37 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:37 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:37 : Response: [ player, food linemate,, food linemate, food, food,, food, food]
+
+15:49:37 : Formated Data: [['player'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['food'], [''], ['food'], ['food']]
+15:49:37 : Sending Right
+15:49:37 : Response: ok
+
+15:49:37 : Sending Forward
+15:49:37 : Response: ok
+
+15:49:37 : Sending Take food
+15:49:37 : Response: ko
+
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:37 : Response: [ player linemate sibur phiras,, mendiane, food, food linemate,, food, phiras, food deraumere sibur]
+
+15:49:37 : Formated Data: [['player', 'linemate', 'sibur', 'phiras'], [''], ['mendiane'], ['food'], ['food', 'linemate'], [''], ['food'], ['phiras'], ['food', 'deraumere', 'sibur']]
+15:49:37 : Sending Forward
+15:49:37 : Response: ok
+
+15:49:37 : Sending Right
+15:49:37 : Response: ok
+
+15:49:37 : Sending Forward
+15:49:37 : Response: ok
+
+15:49:37 : Sending Take food
+15:49:37 : Response: ok
+
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:37 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:37 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:37 : Sending Inventory
+15:49:37 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:37 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food deraumere sibur, deraumere,,, food linemate deraumere, food food, thystame, food food linemate mendiane]
+
+15:49:38 : Formated Data: [['player'], ['food', 'deraumere', 'sibur'], ['deraumere'], [''], [''], ['food', 'linemate', 'deraumere'], ['food', 'food'], ['thystame'], ['food', 'food', 'linemate', 'mendiane']]
+15:49:38 : Sending Forward
+15:49:38 : Response: ok
+
+15:49:38 : Sending Forward
+15:49:38 : Response: ok
+
+15:49:38 : Sending Take food
+15:49:38 : Response: ok
+
+15:49:38 : Sending Take food
+15:49:38 : Response: ok
+
+15:49:38 : Sending Inventory
+15:49:38 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:38 : Sending Look
+15:49:38 : Response: [ player, food mendiane,,,, food,, food, food]
+
+15:49:38 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food']]
+15:49:38 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:39 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:39 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:39 : Sending Inventory
+15:49:39 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:39 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,, food,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['food'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,, player, food,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], ['player'], ['food'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,, player, food,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], ['player'], ['food'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,, player food,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['player', 'food'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,, player,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['player'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,, player,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['player'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,, player,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], ['player'], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,,, player, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], [''], ['player'], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,,,, player food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], [''], [''], ['player', 'food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,, player,,,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], ['player'], [''], [''], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:40 : Response: [ player, food mendiane,,,,,, food, food food]
+
+15:49:40 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], [''], [''], ['food'], ['food', 'food']]
+15:49:40 : Sending Inventory
+15:49:40 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:40 : Sending Look
+15:49:41 : Response: [ player, food mendiane,,,,,, food, food food]
+
+15:49:41 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], [''], [''], ['food'], ['food', 'food']]
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:41 : Response: [ player, food mendiane,,,,,, food, food food]
+
+15:49:41 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], [''], [''], ['food'], ['food', 'food']]
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:41 : Response: [ player, food mendiane,,,,,, food, food food]
+
+15:49:41 : Formated Data: [['player'], ['food', 'mendiane'], [''], [''], [''], [''], [''], ['food'], ['food', 'food']]
+15:49:41 : Sending Forward
+15:49:41 : Response: ok
+
+15:49:41 : Sending Forward
+15:49:41 : Response: ok
+
+15:49:41 : Sending Right
+15:49:41 : Response: ok
+
+15:49:41 : Sending Forward
+15:49:41 : Response: ok
+
+15:49:41 : Sending Forward
+15:49:41 : Response: ok
+
+15:49:41 : Sending Take food
+15:49:41 : Response: ok
+
+15:49:41 : Sending Take food
+15:49:41 : Response: ok
+
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:41 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,,, linemate]
+
+15:49:41 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], [''], ['linemate']]
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:41 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,,, linemate]
+
+15:49:41 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], [''], ['linemate']]
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:41 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,,, linemate]
+
+15:49:41 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], [''], ['linemate']]
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:41 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,,, linemate]
+
+15:49:41 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], [''], ['linemate']]
+15:49:41 : Sending Inventory
+15:49:41 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:41 : Sending Look
+15:49:42 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,,, linemate]
+
+15:49:42 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], [''], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:42 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:42 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:42 : Sending Inventory
+15:49:42 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:42 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player sibur, food, linemate, food, food deraumere mendiane, deraumere,, food, linemate]
+
+15:49:43 : Formated Data: [['player', 'sibur'], ['food'], ['linemate'], ['food'], ['food', 'deraumere', 'mendiane'], ['deraumere'], [''], ['food'], ['linemate']]
+15:49:43 : Sending Right
+15:49:43 : Response: ok
+
+15:49:43 : Sending Forward
+15:49:43 : Response: ok
+
+15:49:43 : Sending Take food
+15:49:43 : Response: ok
+
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:43 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:43 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:43 : Sending Inventory
+15:49:43 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:43 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Inventory
+15:49:44 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:44 : Sending Look
+15:49:44 : Response: [ player player linemate linemate deraumere, mendiane, food food linemate mendiane, mendiane,, mendiane thystame, food, mendiane thystame,]
+
+15:49:44 : Formated Data: [['player', 'player', 'linemate', 'linemate', 'deraumere'], ['mendiane'], ['food', 'food', 'linemate', 'mendiane'], ['mendiane'], [''], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['']]
+15:49:44 : Sending Forward
+15:49:45 : Response: ok
+
+15:49:45 : Sending Take food
+15:49:45 : Response: ok
+
+15:49:45 : Sending Take food
+15:49:45 : Response: ok
+
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:45 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:45 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:45 : Sending Inventory
+15:49:45 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:45 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:46 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:46 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:46 : Sending Inventory
+15:49:46 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:46 : Sending Look
+15:49:47 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:47 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:47 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:47 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:47 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:47 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate mendiane, mendiane thystame, food, mendiane thystame, food, food food linemate, food food linemate, food food linemate, food]
+
+15:49:47 : Formated Data: [['player', 'linemate', 'mendiane'], ['mendiane', 'thystame'], ['food'], ['mendiane', 'thystame'], ['food'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food', 'food', 'linemate'], ['food']]
+15:49:47 : Sending Forward
+15:49:47 : Response: ok
+
+15:49:47 : Sending Forward
+15:49:47 : Response: ok
+
+15:49:47 : Sending Left
+15:49:47 : Response: ok
+
+15:49:47 : Sending Forward
+15:49:47 : Response: ok
+
+15:49:47 : Sending Take food
+15:49:47 : Response: ok
+
+15:49:47 : Sending Take food
+15:49:47 : Response: ok
+
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:47 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:47 : Sending Inventory
+15:49:47 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:47 : Sending Look
+15:49:47 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:47 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:47 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:48 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:48 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:48 : Sending Inventory
+15:49:48 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:48 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food', 'food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food', 'food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food', 'food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food', 'food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Inventory
+15:49:49 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:49 : Sending Look
+15:49:49 : Response: [ player linemate, sibur, food food, linemate linemate mendiane, food linemate linemate, food linemate thystame,, food linemate, deraumere]
+
+15:49:49 : Formated Data: [['player', 'linemate'], ['sibur'], ['food', 'food'], ['linemate', 'linemate', 'mendiane'], ['food', 'linemate', 'linemate'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], ['deraumere']]
+15:49:49 : Sending Forward
+15:49:50 : Response: ok
+
+15:49:50 : Sending Take food
+15:49:50 : Response: ok
+
+15:49:50 : Sending Take food
+15:49:50 : Response: ok
+
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, player linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['player', 'linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, player food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['player', 'food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, player food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['player', 'food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:50 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:50 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:50 : Sending Inventory
+15:49:50 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:50 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:51 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:51 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:51 : Sending Inventory
+15:49:51 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:51 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame,, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], [''], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame, food, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], ['food'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame, food, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], ['food'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame, food, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], ['food'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame, food, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], ['food'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player, food linemate thystame, food, food linemate,, food linemate, food, linemate, linemate thystame]
+
+15:49:52 : Formated Data: [['player'], ['food', 'linemate', 'thystame'], ['food'], ['food', 'linemate'], [''], ['food', 'linemate'], ['food'], ['linemate'], ['linemate', 'thystame']]
+15:49:52 : Sending Right
+15:49:52 : Response: ok
+
+15:49:52 : Sending Forward
+15:49:52 : Response: ok
+
+15:49:52 : Sending Take food
+15:49:52 : Response: ok
+
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:52 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:52 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:52 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:52 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:52 : Sending Inventory
+15:49:52 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:52 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Inventory
+15:49:53 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:53 : Sending Look
+15:49:53 : Response: [ player linemate linemate mendiane, food deraumere, food, food food linemate, deraumere, linemate, food food, food food,]
+
+15:49:53 : Formated Data: [['player', 'linemate', 'linemate', 'mendiane'], ['food', 'deraumere'], ['food'], ['food', 'food', 'linemate'], ['deraumere'], ['linemate'], ['food', 'food'], ['food', 'food'], ['']]
+15:49:53 : Sending Forward
+15:49:53 : Response: ok
+
+15:49:53 : Sending Right
+15:49:53 : Response: ok
+
+15:49:53 : Sending Forward
+15:49:53 : Response: ok
+
+15:49:53 : Sending Take food
+15:49:54 : Response: ok
+
+15:49:54 : Sending Take food
+15:49:54 : Response: ok
+
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player', 'player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player', 'player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player', 'player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 29, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:54 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:54 : Sending Look
+15:49:54 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, player linemate]
+
+15:49:54 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['player', 'linemate']]
+15:49:54 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Sending Look
+15:49:55 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food food sibur, linemate]
+
+15:49:55 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'food', 'sibur'], ['linemate']]
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Sending Look
+15:49:55 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player food sibur, linemate]
+
+15:49:55 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'food', 'sibur'], ['linemate']]
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Sending Look
+15:49:55 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player sibur, linemate]
+
+15:49:55 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'sibur'], ['linemate']]
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Sending Look
+15:49:55 : Response: [ player linemate,, player, phiras, food food, food food, player linemate, player sibur, linemate]
+
+15:49:55 : Formated Data: [['player', 'linemate'], [''], ['player'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'sibur'], ['linemate']]
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Sending Look
+15:49:55 : Response: [ player linemate,, player food, phiras, food food, food food, player linemate, player sibur, linemate]
+
+15:49:55 : Formated Data: [['player', 'linemate'], [''], ['player', 'food'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'sibur'], ['linemate']]
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Sending Look
+15:49:55 : Response: [ player linemate,, player food, phiras, food food, food food, player linemate, player sibur, linemate]
+
+15:49:55 : Formated Data: [['player', 'linemate'], [''], ['player', 'food'], ['phiras'], ['food', 'food'], ['food', 'food'], ['player', 'linemate'], ['player', 'sibur'], ['linemate']]
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Going to broadcast
+15:49:55 : Using message: message 4, name1
+
+15:49:55 : K: 4
+15:49:55 : Sending Left
+15:49:55 : Response: ok
+
+15:49:55 : Sending Forward
+15:49:55 : Response: ok
+
+15:49:55 : Sending Left
+15:49:55 : Response: ok
+
+15:49:55 : Sending Forward
+15:49:55 : Response: ok
+
+15:49:55 : Sending Inventory
+15:49:55 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:55 : Messages cleared
+15:49:55 : goToBroadcast Received: message 8, name1
+15:49:55 : goToBroadcast Received: 
+15:49:55 : Using message: message 8, name1
+15:49:55 : K: 8
+15:49:55 : Sending Forward
+15:49:55 : Response: ok
+
+15:49:55 : Sending Right
+15:49:55 : Response: ok
+
+15:49:55 : Sending Forward
+15:49:56 : Response: ok
+
+15:49:56 : Sending Inventory
+15:49:56 : Response: [food 28, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:56 : Messages cleared
+15:49:56 : goToBroadcast Received: message 1, name1
+15:49:56 : goToBroadcast Received: 
+15:49:56 : Using message: message 1, name1
+15:49:56 : K: 1
+15:49:56 : Sending Forward
+15:49:56 : Response: ok
+
+15:49:56 : Sending Inventory
+15:49:56 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:56 : Messages cleared
+15:49:56 : goToBroadcast Received: message 0, name1
+15:49:56 : goToBroadcast Received: 
+15:49:56 : Using message: message 0, name1
+15:49:56 : K: 0
+15:49:56 : Waiting for elevation
+15:49:56 : Sending Inventory
+15:49:56 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:56 : Messages cleared
+15:49:56 : goToBroadcast Received: message 0, name1
+15:49:56 : goToBroadcast Received: 
+15:49:56 : Using message: message 0, name1
+15:49:56 : K: 0
+15:49:56 : Waiting for elevation
+15:49:56 : Sending Inventory
+15:49:56 : Response: [food 27, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0]
+
+15:49:56 : Messages cleared
+15:49:59 : goToBroadcast Received: Current level: 3
+15:49:59 : Level update: 3
+15:49:59 : goToBroadcast Received: 
+15:50:03 : goToBroadcast Received: Current level: 4
+15:50:03 : Level update: 4
+15:50:03 : goToBroadcast Received: 
+15:50:06 : goToBroadcast Received: Current level: 5
+15:50:06 : Level update: 5
+15:50:06 : goToBroadcast Received: 
+15:50:09 : goToBroadcast Received: Current level: 6
+15:50:09 : Level update: 6
+15:50:09 : goToBroadcast Received: 
+15:50:13 : goToBroadcast Received: Current level: 7
+15:50:13 : Level update: 7
+15:50:13 : goToBroadcast Received: 
+15:50:17 : goToBroadcast Received: Current level: 8
+15:50:17 : Level update: 8
+15:50:17 : I obtained ultimate wisdom, goodbye
